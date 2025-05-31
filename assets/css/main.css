@@ -239,6 +239,13 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	#headshot {
+		width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 5%;
+	}
+
 /* Container */
 
 	.container {
@@ -3425,6 +3432,12 @@ input, select, textarea {
 
 			#footer {
 				padding: 3em 1.5em 3em 1.5em ;
+			}
+
+		/* Headshot Image */
+
+			#headshot {
+				width: 70%;
 			}
 
 	}
